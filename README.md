@@ -15,4 +15,6 @@ so what exactly is rolling_adf_pvalue_mean it is the single mostimport figure in
 
 
 note: pls know that adf pvalues below -2.9 signifies with 95% confidence that series is stationary .
+
+# now  the backtest part so the backtesting will be done in blueshift for every seprately   
  
