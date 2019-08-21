@@ -1,4 +1,4 @@
-# pairs-trading-
+# pairs-trading-in_indian_equities
 # i have craeted this project on pairs trading where i have two parts first is the reaserach notebook where i try adn find tradable pairs and other one is the backtesting part where i backtest the selected pairs in blueshift a backtesting ide build based on zipline 
 # brief on the steps done in research notebooks where I try and find congregated pairs 
 1)	So the way research will go is I want to run back tests for [2016,2017,2018] separately sector by sector reason I am running back test year by year ex:I don’t want to add pairs in 2016 back test algo which were  found  in 2017 research notebook to avoid look ahead bias and also this running back test for every year separately will allow me to add pairs and remove pairs from back test algo which means 2016 backtest will have a bit different tradable pairs than 2017 back test tradable pairs  which is more realstick way of back testing as we add pairs wich are satisfying the conintigration adn remove pairs wich no more satisfyies the critiries  
